@@ -1,0 +1,2 @@
+# Claves apagadas de Serigrafia Pro
+# Pon aqui un CODIGO DE PC por linea para apagar ese plugin.
